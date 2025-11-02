@@ -6,6 +6,8 @@ const fs = require('fs');
 const app = express();
 const PORT = 3000;
 
+// ONIBAKUMAN
+
 // Configuration
 const SECRET_TOKEN = 'stream_SFX';
 const SFX_FOLDER = 'C:\\Program Files\\obs-studio\\PhantomBot\\SFX';
